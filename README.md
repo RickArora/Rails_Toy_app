@@ -1,1 +1,1 @@
-# Rails_Toy_app
+# Making a small Ruby on Rails application
